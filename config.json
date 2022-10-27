@@ -1,0 +1,20 @@
+{
+    "qbittorrent": {
+        "ip": "134.122.80.109",
+        "port": 8080,
+        "user": "HimeYuki",
+        "password": "@Manhkt1"
+    },
+    "telegram": {
+        "bot_token": "1983032435:AAF7oN59K0HMSaZYz4Z_S0SXxL2HP_R3htw",
+        "api_id": 7754573,
+        "api_hash": "7dd4b82941b184a83d0e5aac6ff0fb84"
+    },
+
+    "users": [
+        {
+            "user_id": 1285890864,
+            "notify": true
+        }
+    ]
+}
